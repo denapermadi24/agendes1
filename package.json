@@ -36,6 +36,8 @@
     "whatwg-fetch": "^3.6.2"
   },
   "dependencies": {
-    "regenerator-runtime": "^0.14.0"
+    "jquery": "^3.7.1",
+    "regenerator-runtime": "^0.14.0",
+    "workbox-window": "^7.0.0"
   }
 }
