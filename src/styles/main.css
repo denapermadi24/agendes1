@@ -236,6 +236,6 @@ hr {
   font-weight: bolder;
 }
 
-.skip-link:focus {
-  top: 0;
+.skip-link:focus  {
+    top: 0;
 }
